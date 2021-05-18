@@ -1,0 +1,13 @@
+C:\Users\salag\source\repos\Xtransfer\Xtransfer\bin\Debug\netcoreapp3.1\Xtransfer.exe
+C:\Users\salag\source\repos\Xtransfer\Xtransfer\bin\Debug\netcoreapp3.1\Xtransfer.deps.json
+C:\Users\salag\source\repos\Xtransfer\Xtransfer\bin\Debug\netcoreapp3.1\Xtransfer.runtimeconfig.json
+C:\Users\salag\source\repos\Xtransfer\Xtransfer\bin\Debug\netcoreapp3.1\Xtransfer.runtimeconfig.dev.json
+C:\Users\salag\source\repos\Xtransfer\Xtransfer\bin\Debug\netcoreapp3.1\Xtransfer.dll
+C:\Users\salag\source\repos\Xtransfer\Xtransfer\bin\Debug\netcoreapp3.1\Xtransfer.pdb
+C:\Users\salag\source\repos\Xtransfer\Xtransfer\obj\Debug\netcoreapp3.1\Xtransfer.csprojAssemblyReference.cache
+C:\Users\salag\source\repos\Xtransfer\Xtransfer\obj\Debug\netcoreapp3.1\Xtransfer.AssemblyInfoInputs.cache
+C:\Users\salag\source\repos\Xtransfer\Xtransfer\obj\Debug\netcoreapp3.1\Xtransfer.AssemblyInfo.cs
+C:\Users\salag\source\repos\Xtransfer\Xtransfer\obj\Debug\netcoreapp3.1\Xtransfer.csproj.CoreCompileInputs.cache
+C:\Users\salag\source\repos\Xtransfer\Xtransfer\obj\Debug\netcoreapp3.1\Xtransfer.dll
+C:\Users\salag\source\repos\Xtransfer\Xtransfer\obj\Debug\netcoreapp3.1\Xtransfer.pdb
+C:\Users\salag\source\repos\Xtransfer\Xtransfer\obj\Debug\netcoreapp3.1\Xtransfer.genruntimeconfig.cache
